@@ -1,6 +1,6 @@
 # Cree una función generadora llamada
 # baraja()
-# que simule la entrega decartas de un mazo, use las siguientes listas para definir el mazo decartas:
+# que simule la entrega de cartas de un mazo, use las siguientes listas para definir el mazo decartas:
 # valores = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
 # palos = ['corazones', 'diamantes', 'tréboles', 'picas']
 # y para probar, ejecute el siguiente código:

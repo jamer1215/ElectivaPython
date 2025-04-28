@@ -26,7 +26,7 @@ class Timer:
         print(f"Tiempo transcurrido: {elapsed_time:.2f} segundos")  
 
 
-with Timer():
+with Timer():#creamos una instancia de Timer y se ejecuta la lógica del método __enter__()
   # Bloque de código para medir el tiempo de ejecución
   for _ in range(1000000):
-   pass
+   pass#despues de este mega-for es que se ejecuta el método __exit__() con la lógica que tiene dentro.
