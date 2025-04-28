@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="[./public/icons/Python-Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)" width="400" alt="Python Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="400" alt="Python Logo" />
 </div>
 
 # Bienvenido a mi repositorio de Python
@@ -27,11 +27,11 @@ y ejemplos de código visto en clase
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/C102002/Clases-Electiva-Python.git
+    git clone https://github.com/jamer1215/ElectivaPython.git
     ```
 2. Navega a la carpeta del proyecto:
     ```bash
-    cd clases-python
+    cd ElectivaPython
     ```
 3. Explora los archivos y carpetas para encontrar el contenido que necesitas.
 
