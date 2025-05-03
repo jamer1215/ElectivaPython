@@ -35,10 +35,6 @@ y ejemplos de código visto en clase
     ```
 3. Explora los archivos y carpetas para encontrar el contenido que necesitas.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Créditos adicionales
 
 Para este README fue usado de referencia el del propietario original (@C102002) quien tambien tiene su repo. de esto mismo.
